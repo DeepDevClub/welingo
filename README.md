@@ -52,7 +52,7 @@ Welingo is an AI-assisted language learning platform designed specifically for l
 ### API Documentation
 
 - **Getting started with flutter:** [[Flutter docs](https://flutter.dev/)]
-- **Dubao API Documentation:** [[link to API docs](https://www.volcengine.com/)]
+- **Dubao API Documentation:** [[API docs](https://www.volcengine.com/)]
 - **Zhejiang Normal University Curriculum:** Access curriculum details for aligning with international students' language courses [].
 
 ### Contribution Guidelines
